@@ -132,4 +132,4 @@ You’re free to use, modify, and distribute with proper attribution.
 
 **Author:** Raja Atif Aurang Zaib  
 🌐 Hugging Face: [@rajaatif786](https://huggingface.co/rajaatif786)  
-🔗 Demo: [VirTransformer-250bp App](https://rajaatif786-virtransformer-250bp.hf.space)
+🔗 Demo: [VirTransformer-250bp App](https://bioaml.com/pathogenicity.html)
