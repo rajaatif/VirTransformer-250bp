@@ -2,7 +2,7 @@
 
 **VirTransformer-250bp** is a Transformer-based AI model designed to predict whether a viral genome can infect *Homo sapiens* cells directly from **nucleotide sequences** — without using host or protein biomarkers.
 
-# 🧬 VirTransformer-250bp
+
 
 ![Model Architecture](model.png)
 
